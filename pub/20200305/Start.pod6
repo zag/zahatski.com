@@ -1,0 +1,30 @@
+=begin pod  :pubdate('2020-03-04 08:00:00') :tags<pod6>
+=TITLE Reimplement pod6 in JavaScript
+
+=begin DESCRIPTION
+
+At the end of last year I decided to implement pod6 in Javascript.
+
+=end DESCRIPTION
+
+
+At the end of last year I decided to implement pod6 in Javascript.
+A previous implementation on Perl5 suited me in many ways, but I 
+think another implementation would be a good option.
+
+At this point, I think the implementation is 80% complete.
+You can try it on the page L<https://pod6.in>
+
+Pages of this site also are created on pod6 and 
+processed by perl5 implementation.
+Sources can be found at github. 
+Now I see that js implementations more powerful and complete than perl5.
+Basically, this concerns virtual margins and configuration parametrs.
+
+Usefull links are:
+
+=item Previous implementation of pod6 L<Perl6::Pod|https://metacpan.org/pod/Perl6::Pod>
+=item JavaScript implementation: L<js-pod6|https://github.com/zag/js-pod6>
+=item Online editor: L<https://pod6.in>
+
+=end pod

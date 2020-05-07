@@ -1,0 +1,15 @@
+=begin pod  :pubdate('2012-07-26 10:00:00') :tags<pod6 perl6 pod perl> :type('page') :publishUrl('/pages/contacts')
+=TITLE Contact
+
+=begin DESCRIPTION
+
+Contact me
+
+=end DESCRIPTION
+
+
+My email: me(at)zag.ru
+
+
+=end pod
+

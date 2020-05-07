@@ -1,0 +1,71 @@
+=begin pod :pubdate('2012-07-26 10:00:00') :tags<pod6 perl6 pod perl> :type('page') :publishUrl('/pages/about')
+=TITLE About
+
+=begin DESCRIPTION 
+
+In short about this
+
+=end DESCRIPTION
+
+=head2 Hi! 👋
+
+On the pages of this site, I tell everything that I am interested in,
+posting materials related to my professional activity - developing
+of software and software products.
+
+The site itself is a system of personal publication, on which I 
+testing modern technology and my ideas.
+
+I'd be glad if the information I'm sharing would be useful to you.
+
+With best,
+Alex
+
+=head2 Projects
+
+=begin defn
+L<https://github.com/zag/js-pod6>
+
+Implement pod6 in JavaScript
+=end defn
+
+
+=begin defn
+L<https://metacpan.org/pod/Perl6::Pod>
+
+Pod6 implementation in Perl 5
+=end defn
+
+=begin defn
+L<https://github.com/zag/ru-perl6-book>
+
+Book about perl6 writeen in pod6
+=end defn
+
+=begin defn
+L<https://github.com/zag/writeat>
+
+Writeat - tools for make books in pod6
+=end defn
+
+=begin defn
+L<http://rakudoport.sourceforge.net/>
+Perl6 on FreeBSD 
+=end defn
+
+
+=begin defn
+L<https://metacpan.org/pod/Plosurin> , L<https://github.com/zag/plosurin>
+
+Implement Google Closure Templates in perl5 and raku (former perl6)
+=end defn
+
+=begin defn
+L<http://webdao.sourceforge.net/>
+
+WebDAO - web framework for web applications especially REST API.
+See also: L<https://metacpan.org/pod/WebDAO>
+=end defn
+
+=end pod
+
