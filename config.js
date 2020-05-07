@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Alexandr Zahatski| software engeneering, electronic publishing',
   subtitle: 'Alexandr Zahatski| software engeneering, electronic publishing',
-  copyright: '© All rights reserved. 2002-2020',
+  copyright: '© All rights reserved. 2002-2020.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-2388080-5',
