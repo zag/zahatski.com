@@ -24,6 +24,12 @@ Alex
 =head2 Projects
 
 =begin defn
+L<https://github.com/zag/gatsby-starter-pod6>
+A minimal, lightweight and mobile-first starter for creating blogs uses Gatsby and pod6 markup language
+
+=end defn
+
+=begin defn
 L<https://github.com/zag/js-pod6>
 
 Implement pod6 in JavaScript
