@@ -1,0 +1,42 @@
+=begin pod :pubdate('2020-05-08 08:00:00') :tags<pod6> :type('post')
+=TITLE Sources of this blog content
+
+=begin DESCRIPTION 
+
+The L<sources of this blog|https://github.com/zag/zahatski.com> can be find at github.
+This blog is part of my personal publishing platform. 
+
+
+=end DESCRIPTION
+
+The sources of this blog are available at github N<
+Sources of L<zahatski.com|https://zahatski.com>: L<https://github.com/zag/zahatski.com>
+>.
+
+This is a part of my small personal publishing platform.
+It includes two blogs and a gatsby-based website generator.
+
+=begin defn
+Content of blogs:
+
+=item L<zahatski.com|https://zahatski.com>: L<https://github.com/zag/zahatski.com>
+=item L<zag.ru|https://zag.ru>: L<https://github.com/zag/zag.ru >
+
+Main format of posts is L<pod6|https://docs.perl6.org/language/pod>.
+
+=end defn
+
+=begin defn
+Site generator:
+
+=item L<https://github.com/zag/gatsby-starter-pod6>
+
+Demo: L<https://gatsby-pod6.netlify.app/>
+=end defn
+
+Sources of blogs are separate from build. It possible to change
+site engine in future. For now i'm using gatsby based site builder.
+
+I plan to share how to easy start blogging in pod6.
+Please, stay tune.
+=end pod
