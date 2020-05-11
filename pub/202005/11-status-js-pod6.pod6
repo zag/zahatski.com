@@ -11,7 +11,7 @@ This is the SUMMARY of the Synopsis 26 that marks the completed parts:
 
 =Image status_of_js-pod6.png
 
-The difference from the L<previous report|https://zahatski.com/2020/4/14/1/implementation-of-pod6-in-javascript> is as follows:
+The differences from the L<previous report|https://zahatski.com/2020/4/14/1/implementation-of-pod6-in-javascript>:
 
 =item implement terminal output: C<T<>>
 =item implement keyboard input: C<K<>>
