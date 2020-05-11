@@ -1,0 +1,28 @@
+=begin pod :pubdate('2020-05-11 08:00:00') :tags<pod6>
+=TITLE Pod6 implementation status
+
+=begin DESCRIPTION 
+
+Status of L<js-pod6|https://github.com/zag/js-pod6> on may 2020
+
+=end DESCRIPTION
+
+This is the SUMMARY of the Synopsis 26 that marks the completed parts:
+
+=Image status_of_js-pod6.png
+
+The difference from the L<previous report|https://zahatski.com/2020/4/14/1/implementation-of-pod6-in-javascript> is as follows:
+
+=item implement terminal output: C<T<>>
+=item implement keyboard input: C<K<>>
+=item implement unusual or distinctive: C<U<>>
+=item implement =input, =output blocks
+=item implement C<A<>>, =alias directive
+
+
+Usefull links are:
+
+=item JavaScript implementation: L<js-pod6|https://github.com/zag/js-pod6>
+=item Online editor: L<https://pod6.in>
+
+=end pod
