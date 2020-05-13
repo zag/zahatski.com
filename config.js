@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://zahatski.com',
   pathPrefix: '/',
-  title: 'Alexandr Zahatski| software engeneering, electronic publishing',
-  subtitle: 'Alexandr Zahatski| software engeneering, electronic publishing',
+  title: 'Alexandr Zahatski| software engineering, electronic publishing',
+  subtitle: 'Alexandr Zahatski| software engineering, electronic publishing',
   copyright: '© All rights reserved. 2002-2020. <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. <a href="https://zahatski.com/2020/5/8/1/sources-of-this-blog">Made with 🌶️ and pod6</a>',
   disqusShortname: '',
   postsPerPage: 4,
