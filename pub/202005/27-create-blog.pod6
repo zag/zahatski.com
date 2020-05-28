@@ -1,0 +1,74 @@
+=begin pod :pubdate('2020-05-28 08:00:00') :tags<pod6>
+=TITLE Create a blog with pod6
+
+=begin DESCRIPTION 
+
+This video lesson will show you how to make your blog with pod6
+
+=end DESCRIPTION
+
+=Image create_blog.jpg
+
+This video lesson will show you how to make your blog with pod6
+
+=Video https://www.youtube.com/embed/s6jQC3eVazY
+
+=head3 Steps to launch a blog
+=item open template repository L<https://github.com/zag/gatsby-starter-pod6>
+=item click L<"Deploy to Netlify"|https://app.netlify.com/start/deploy?repository=https://github.com/zag/gatsby-starter-pod6>
+=item connect your github to Netlify
+
+As a result, you will have a repository in which the changes will be 
+automatically published on site.
+
+Folders structure:
+
+=begin code :allow(B)
+....
+├── pub
+│   ├── B<pages>
+│   │   ├── about.pod6
+│   │   ├── contacts.pod6
+│   │   └── gatsby-astronaut.png
+│   └── B<posts>
+│       ├── 01-post.pod6
+│       └── gatsby-astronaut.png
+├── pub.all
+├── src
+├── B<config.js>
+.......
+=end code
+
+=head2 Posts
+
+The template for blog post is simple:
+
+=begin code :allow(Z)
+Z<>=begin pod  :pubdate('2020-05-07 10:00:00') :tags<pod6> 
+Z<>=TITLE 📝 How to make a great post
+
+Z<>=DESCRIPTION 
+Place a short description B<here>.
+
+=para
+Start text I<here>!
+=head2 simple header
+Z<>=end pod
+=end code
+
+You can use file C<pub/posts/01-post.pod6> as a sample for future posts.
+
+=head2 Pages
+
+Files in C<pages> folder are static pages witch written in pod6.
+Try to edit it to see as pod6 work!
+
+=head2 config.js
+
+Please update C<config.js> for your settings and info.
+
+Also you can try L<https://pod6.in> as editor for your posts.
+
+🤞Have a nice day!
+
+=end pod
