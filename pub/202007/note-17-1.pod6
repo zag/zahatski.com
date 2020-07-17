@@ -1,0 +1,15 @@
+=begin pod  :pubdate('2020-07-17 08:00:00') :type<note> :tags<arcticbadge github OpenSource>
+=TITLE Arctic Code Vault Contributor ❄️
+
+=begin DESCRIPTION 
+
+Thanks, L<@github|https://twitter.com/github>!
+I got a new badge:
+=Image /Users/zag/Dropbox/Work/projects/zahatski.com/pub/202007/2020-07-17-1.jpg
+
+=end DESCRIPTION
+Thanks, L<@github|https://twitter.com/github>
+I got a new badge!
+=Image /Users/zag/Dropbox/Work/projects/zahatski.com/pub/202007/2020-07-17-1.jpg
+
+=end pod
