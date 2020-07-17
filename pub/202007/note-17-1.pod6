@@ -5,11 +5,11 @@
 
 Thanks, L<@github|https://twitter.com/github>!
 I got a new badge:
-=Image /Users/zag/Dropbox/Work/projects/zahatski.com/pub/202007/2020-07-17-1.jpg
+=Image 2020-07-17-1.jpg
 
 =end DESCRIPTION
 Thanks, L<@github|https://twitter.com/github>
 I got a new badge!
-=Image /Users/zag/Dropbox/Work/projects/zahatski.com/pub/202007/2020-07-17-1.jpg
+=Image 2020-07-17-1.jpg
 
 =end pod
