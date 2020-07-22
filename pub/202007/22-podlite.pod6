@@ -1,0 +1,78 @@
+=begin pod :pubdate('2020-07-22 08:00:00') :tags<pod6> 
+=TITLE Podlite - open-source pod6 markup language editor
+
+=begin DESCRIPTION 
+
+
+Another step in using pod6 in everyday life is L<Podlite|https://github.com/zag/podlite-desktop> - 
+ open-source desktop editor for Windows, Linux and Mac.
+=Image podlite-logo.png
+
+
+=end DESCRIPTION
+
+
+Another step in using pod6 in everyday life is L<Podlite|https://github.com/zag/podlite-desktop> - 
+ open-source desktop editor for Windows, Linux and Mac.
+=Image podlite-logo.png
+
+Here is some screenshots:
+
+=Image screenshot-full-page.png
+=Image Screenshot1.png
+
+=head2 Good time for pod6
+
+This is not the first attempt to make the pod6 format popular.
+However, I'm sure it's a good time for that.
+
+
+Earlier I tried to create books, technical documentation in pod6 format.
+For this purpose, I wrote a pod6 implementation in Perl 5 N<Pod6 implementation in Perl 5.
+L<https://metacpan.org/pod/Perl6::Pod>
+> and a set of
+tools for creating documentation and books N<
+Writeat - tools for make books in pod6. L<https://github.com/zag/writeat>
+>.
+
+However, this was not popular ten years ago.
+Now I think a lot of people are using different
+markup languages and have gained enough experience
+to appreciate the power of pod6.
+
+This editor and template for creating pod6 N<A minimal, lightweight 
+and mobile-first starter for creating blogs uses Gatsby and pod6 markup language. 
+L<https://github.com/zag/gatsby-starter-pod6>> sites I think would be a good start
+for practical application of pod6.
+
+=Image Screenshot2.png
+
+
+I use pod6 to create blog posts N<
+Create a blog with pod6. L<https://zahatski.com/2020/5/28/1/create-a-blog-with-pod6>
+>
+and in my daily life to keep a personal diary and notes.
+Even this post is written in pod6 format using the Podlite editor.
+
+I plan to give it functionality for more using in professional work. 
+There is a lot of work to be done and this is just the beginning.
+
+=head2 How to get Podlite
+
+At the moment it's just a I<beta>.
+
+Pre-build files availably only for Linux and Windows. Mac will appear later.
+You can compile from the repository yourself or download pre-build
+files: B<L< Podlite releases|https://github.com/zag/podlite-desktop/releases>>
+
+Check repository for source code: L<https://github.com/zag/podlite-desktop>
+
+Usefull links are:
+
+=item L<Pod6 - An easy-to-use markup language for documenting Raku modules and programs|https://docs.raku.org/language/pod>
+=item Specification of pod6: L<Synopsis 26|https://github.com/perl6/specs/blob/master/S26-documentation.pod>
+=item Online editor: L<https://pod6.in>
+
+Thank you!
+
+=end pod

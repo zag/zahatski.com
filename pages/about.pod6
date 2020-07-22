@@ -1,4 +1,4 @@
-=begin pod :pubdate('2012-07-26 10:00:00') :tags<pod6 perl6 pod perl> :type('page') :publishUrl('/pages/about')
+=begin pod :pubdate('2020-05-26 10:00:00') :tags<pod6 perl6 pod perl> :type('page') :publishUrl('/pages/about')
 =TITLE About
 
 =begin DESCRIPTION 
@@ -45,7 +45,7 @@ Pod6 implementation in Perl 5
 =begin defn
 L<https://github.com/zag/ru-perl6-book>
 
-Book about perl6 writeen in pod6
+Book about perl6 written in pod6
 =end defn
 
 =begin defn
