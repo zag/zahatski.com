@@ -40,9 +40,9 @@ Now I think a lot of people are using different
 markup languages and have gained enough experience
 to appreciate the power of pod6.
 
-This editor and template for creating pod6 N<A minimal, lightweight 
+This editor and template for creating blog sites N<A minimal, lightweight 
 and mobile-first starter for creating blogs uses Gatsby and pod6 markup language. 
-L<https://github.com/zag/gatsby-starter-pod6>> sites I think would be a good start
+L<https://github.com/zag/gatsby-starter-pod6>> I think would be a good start
 for practical application of pod6.
 
 =Image Screenshot2.png
@@ -61,9 +61,9 @@ There is a lot of work to be done and this is just the beginning.
 
 At the moment it's just a I<beta>.
 
-Pre-build files availably only for Linux and Windows. Mac will appear later.
 You can compile from the repository yourself or download pre-build
-files: B<L< Podlite releases|https://github.com/zag/podlite-desktop/releases>>
+files: B<L< Podlite releases|https://github.com/zag/podlite-desktop/releases>>.
+Pre-build files availably only for Linux and Windows. Mac will appear later.
 
 Check repository for source code: L<https://github.com/zag/podlite-desktop>
 
