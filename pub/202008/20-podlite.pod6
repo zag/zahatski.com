@@ -1,0 +1,56 @@
+=begin pod :pubdate('2020-08-20T08:00:00Z') :tags<pod6> 
+=TITLE Podlite ver. 0.0.2 
+
+=begin DESCRIPTION 
+
+The new version of Podlite is available! L<Podlite|https://github.com/zag/podlite-desktop> - 
+ open-source desktop pod6 editor for Windows, Linux, and Mac.
+=Image podlite-logo.png
+
+=end DESCRIPTION
+
+The new version of Podlite is available! L<Podlite|https://github.com/zag/podlite-desktop> - 
+ open-source desktop pod6 editor for Windows, Linux, and Mac.
+
+=head2 Highlight of this version
+
+=item
+Improved appearance
+
+Now the application looks better and has a menu in order.
+=Image screenshot-windows.png
+
+=item Add builds for MacOS
+
+=Image screenshit-mac-dmg.png
+
+=item  Implement auto updating
+
+When an update is found, it will automatically 
+be downloaded in the background;
+
+=item Pod mode by default only for files with C<.pod6>
+and  C<.rakudoc> extensions;
+
+=item associate .pod6 and .rakudoc files with Podlite as 
+default editor/viewer.
+
+=head2 Get Podlite 
+
+=begin nested 
+Pre-build files: L<Podlite releases|https://github.com/zag/podlite-desktop/releases>.
+
+Check repository: L<Source code|https://github.com/zag/podlite-desktop>.
+=end nested
+
+=head2 Useful links are:
+
+=item L<Pod6 - An easy-to-use markup language for documenting Raku modules and programs|https://docs.raku.org/language/pod>
+=item Specification of pod6: L<Synopsis 26|https://github.com/perl6/specs/blob/master/S26-documentation.pod>
+=item Online editor: L<https://pod6.in>
+
+Will look forward to your feedback on L<GitHub issue|https://github.com/zag/podlite-desktop/issues> page.
+
+Thank you!
+
+=end pod
