@@ -1,0 +1,55 @@
+=begin pod :pubdate('2020-10-29T08:00:00Z') :tags<pod6> 
+=TITLE Podlite ver. 0.0.3 
+
+=begin DESCRIPTION 
+
+The new version of Podlite is available! L<Podlite|https://github.com/zag/podlite-desktop> - 
+ open-source desktop pod6 editor for Windows, Linux, and Mac.
+=Image podlite-logo.png
+
+=end DESCRIPTION
+
+The new version of Podlite is available! L<Podlite|https://github.com/zag/podlite-desktop> - 
+ open-source desktop pod6 editor for Windows, Linux, and Mac.
+
+=head2 Highlight of this version
+
+=item Import from markdown
+
+=Image import-from-markdown.png
+        
+Now you can convert the markdown files to pod6.
+
+Importing images is not supported yet but will be added in the next release.
+
+
+=item Export to HTML
+
+Files can be saved in HTML format.
+
+=Image export-html.png
+
+
+=head2 Get Podlite
+
+There are distributions available for Linux, Mac, and Windows.
+
+=begin nested 
+
+Download files: L<Podlite releases|https://github.com/zag/podlite-desktop/releases>
+
+Repository: L<Source code|https://github.com/zag/podlite-desktop>
+
+=end nested
+
+=head2 Useful links are:
+
+=item L<Pod6 - An easy-to-use markup language for documenting Raku modules and programs|https://docs.raku.org/language/pod>
+=item Specification of pod6: L<Synopsis 26|https://github.com/perl6/specs/blob/master/S26-documentation.pod>
+=item Online editor: L<https://pod6.in>
+
+Will look forward to your feedback on L<GitHub issue|https://github.com/zag/podlite-desktop/issues> page.
+
+Thank you!
+
+=end pod
