@@ -1,0 +1,25 @@
+=begin pod :pubdate('2021-02-17 14:00:00') :tags<pod6> :type('note')
+=TITLE Implementation of pod6 in JavaScript
+
+=begin DESCRIPTION 
+
+Status of L<js-pod6|https://github.com/zag/js-pod6>
+
+=end DESCRIPTION
+
+This is the SUMMARY of the Synopsis 26 that marks the completed parts:
+
+=Image status_of_js-pod6.png
+
+
+Most of the specification is done, there is still some 
+raku specific.
+
+
+Usefull links are:
+
+=item JavaScript implementation: L<js-pod6|https://github.com/zag/js-pod6>
+
+=item Online editor: L<https://pod6.in>
+
+=end pod
