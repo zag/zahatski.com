@@ -1,0 +1,65 @@
+=begin pod :pubdate('2021-05-06T08:00:00Z') :tags<pod6> 
+=TITLE Podlite ver. 0.1.0 
+
+=begin DESCRIPTION 
+
+The new version of Podlite is available! L<Podlite|https://github.com/zag/podlite-desktop> - 
+ open-source desktop pod6 editor for Windows, Linux, and Mac.
+=Image podlite-logo.png
+
+=end DESCRIPTION
+
+The new version of Podlite is available! L<Podlite|https://github.com/zag/podlite-desktop> - 
+ open-source desktop pod6 editor for Windows, Linux, and Mac.
+
+=head2 Highlight of this version
+
+=item Diagrams
+
+=Image diagrams_screenshot.png
+
+Many developers prefer to describe their data structures and processes using text, avoiding the need to context switch.
+
+Visualization with different types of diagrams enables Podltie to be used for everyday tasks. 
+
+
+The implementation of the diagrams is based on the well-known L<Mermaid|https://mermaid-js.github.io/mermaid/#/> library. More examples can be found on the L<polite-desktop page|https://github.com/zag/podlite-desktop>.
+
+
+=item Export to B<PDF>
+
+New export format !
+
+=Image export_pdf_menu.png
+
+Now you can simply share your document via email or print it out. 
+
+=Image export_pdf.png
+
+=item User experience
+
+=item2 Podlite saves open windows and their location. This allows you to quickly restore the working environment after a restart.
+=item2 General logic and plugins are in a L<separate library|https://github.com/zag/podlite>.
+
+=item2 Main app is refactored and no more I<beta> \o/
+
+
+=head2 Get Podlite 
+
+=begin nested 
+Pre-build files: L<Podlite releases|https://github.com/zag/podlite-desktop/releases>.
+
+Check repository: L<Source code|https://github.com/zag/podlite-desktop>.
+=end nested
+
+=head2 Useful links are:
+
+=item L<Pod6 - An easy-to-use markup language for documenting Raku modules and programs|https://docs.raku.org/language/pod>
+=item Specification of pod6: L<Synopsis 26|https://github.com/perl6/specs/blob/master/S26-documentation.pod>
+=item Online editor: L<https://pod6.in>
+
+Will look forward to your feedback on L<GitHub issue|https://github.com/zag/podlite-desktop/issues> page.
+
+Thank you!
+
+=end pod
