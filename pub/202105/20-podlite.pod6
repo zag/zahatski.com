@@ -5,7 +5,7 @@
 
 The new version of Podlite is available! L<Podlite|https://github.com/zag/podlite-desktop> - 
  open-source desktop pod6 editor for Windows, Linux, and Mac.
-=Image podlite-logo.png
+=Image podlite-logo-new.png
 
 =end DESCRIPTION
 
