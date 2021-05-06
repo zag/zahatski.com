@@ -20,10 +20,10 @@ The new version of Podlite is available! L<Podlite|https://github.com/zag/podlit
 
 Many developers prefer to describe their data structures and processes using text, avoiding the need to context switch.
 
-Visualization with different types of diagrams enables Podltie to be used for everyday tasks. 
+Visualization with different types of diagrams enables Podlite to be used for everyday tasks. 
 
 
-The implementation of the diagrams is based on the well-known L<Mermaid|https://mermaid-js.github.io/mermaid/#/> library. More examples can be found on the L<polite-desktop page|https://github.com/zag/podlite-desktop>.
+The implementation of the diagrams is based on the well-known L<Mermaid|https://mermaid-js.github.io/mermaid/#/> library. More examples can be found on the L<Podlite github page|https://github.com/zag/podlite-desktop>.
 
 
 =item Export to B<PDF>
