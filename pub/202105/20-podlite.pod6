@@ -1,4 +1,4 @@
-=begin pod :pubdate('2021-05-06T08:00:00Z') :tags<pod6> 
+=begin pod :pubdate('2021-05-06T07:00:00Z') :tags<pod6> 
 =TITLE Podlite ver. 0.1.0 
 
 =begin DESCRIPTION 
