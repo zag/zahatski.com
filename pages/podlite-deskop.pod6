@@ -1,0 +1,71 @@
+=begin pod :pubdate('2021-10-10 10:00:00') :tags<pod6 perl6 raku pod podlite > :type('page') :publishUrl('/pages/podlite-desktop')
+=TITLE Podlite desktop
+
+=begin DESCRIPTION 
+
+In short about this
+
+=end DESCRIPTION
+
+=Image podlite/podlite-desktop.png
+
+The viewer and editor of pod6 files for Windows, Linux and Mac.
+
+=Image podlite/screenshot-full-page.png
+
+
+Many developers prefer to describe their data structures and processes using text, avoiding the need to context switch.
+
+Visualization with different types of diagrams enables Podlite to be used for everyday tasks. 
+
+
+
+=Image podlite/diagrams_screenshot.png
+
+=head2 Highlight of latest version
+
+=item Import from markdown
+=Image podlite/import-from-markdown.png
+
+=item Export to HTML
+
+Files can be saved in HTML format.
+=Image podlite/export-html.png
+
+=item Export to B<PDF>
+=Image podlite/export_pdf_menu.png
+
+
+B<Podlite> support most pod6 markup features
+and:
+=item1 supports local video ( i.e. .mp4 files) for =Image
+=item1 Z<>=Diagram component
+=item1 save windows state between app restarts
+=item1 open external URL in the browser
+=item1 Z<>=Image: fix show assets from disk
+=item1 fix macOS and windows distributions
+=item1 flexible application windows size
+
+
+=head2 Get Podlite 
+
+=begin nested 
+Pre-build files: L<Podlite releases|https://github.com/zag/podlite-desktop/releases>.
+
+Check repository: L<Source code|https://github.com/zag/podlite-desktop>.
+=end nested
+
+=head2 Useful links are:
+
+=item L<Pod6 - An easy-to-use markup language for documenting Raku modules and programs|https://docs.raku.org/language/pod>
+=item Specification of pod6: L<Synopsis 26|https://github.com/perl6/specs/blob/master/S26-documentation.pod>
+=item Online editor: L<https://pod6.in>
+
+Will look forward to your feedback on L<GitHub issue|https://github.com/zag/podlite-desktop/issues> page.
+
+Thank you!
+
+
+
+=end pod
+

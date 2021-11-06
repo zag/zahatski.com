@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Alexandr Zahatski| software engineering, electronic publishing',
   subtitle: 'Alexandr Zahatski| software engineering, electronic publishing',
-  copyright: '© All rights reserved. 2002-2020. <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. <a href="https://zahatski.com/2020/5/8/1/sources-of-this-blog">Made with 🌶️ and pod6</a>',
+  copyright: '© All rights reserved. 2002-2021. <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. <a href="https://zahatski.com/2020/5/8/1/sources-of-this-blog">Made with 🌶️ and pod6</a>',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-2388080-5',
@@ -19,7 +19,11 @@ module.exports = {
       label: 'Contact me',
       path: '/pages/contacts'
     },
-],
+    {
+        label: '✨ Podlite editor ✨',
+        path: '/pages/podlite-desktop'
+      },
+  ],
   author: {
     name: 'Alexandr Zahatski',
     photo: '/photo.jpg',
