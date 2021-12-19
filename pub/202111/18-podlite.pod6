@@ -1,0 +1,67 @@
+=begin pod :pubdate('2021-11-18T07:00:00Z') :tags<pod6> 
+=TITLE Podlite ver. 0.2.0 
+
+=begin DESCRIPTION 
+
+The new version of Podlite is available! L<Podlite|https://github.com/zag/podlite-desktop> - 
+ open-source desktop pod6 editor for Windows, Linux, and Mac.
+=Image podlite-v0.2.0.png
+
+=end DESCRIPTION
+
+The new version of Podlite is available! L<Podlite|https://github.com/zag/podlite-desktop> - 
+ open-source desktop pod6 editor for Windows, Linux, and Mac.
+
+=head2 Highlights of this version
+
+For bits of help fill up pod6 this version of the editor comes with nice features: suggestions and snippets.
+
+
+=Image suggestions2.png
+
+
+=item autocomplete for directives
+
+Then you start typing symbol '=' editor show some suggestions.
+
+=Image suggestions.png
+
+For example:
+
+=Image autocomplete.gif
+
+=item pod snippets 🏷
+
+Suggestions are mixed with mini pod templates - snippets. Snippets are marked by 🏷 emoji.
+
+=Image snippets.png
+
+And here how its work:
+
+=Image tablesnippets.gif
+
+This is early version of suggestions and snippets 🏷.
+This will be expanded in future releases.
+
+
+This feature also available at the online editor: L<https://pod6.in>
+
+=head2 Get Podlite 
+
+=begin nested 
+Pre-build files: L<Podlite releases|https://github.com/zag/podlite-desktop/releases>.
+
+Check repository: L<Source code|https://github.com/zag/podlite-desktop>.
+=end nested
+
+=head2 Useful links are:
+
+=item L<Pod6 - An easy-to-use markup language for documenting Raku modules and programs|https://docs.raku.org/language/pod>
+=item Specification of pod6: L<Synopsis 26|https://github.com/perl6/specs/blob/master/S26-documentation.pod>
+=item Online editor: L<https://pod6.in>
+
+Will look forward to your feedback on L<GitHub issue|https://github.com/zag/podlite-desktop/issues> page.
+
+Thank you!
+
+=end pod
